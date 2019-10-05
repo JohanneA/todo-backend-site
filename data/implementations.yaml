@@ -1190,3 +1190,14 @@
     - smalltalk
     - pharo
     - seaside
+    
+    
+"Kotlin / Hexagon with MongoDb":
+  description:
+    <a href="https://kotlinlang.org/">Kotlin</a> + <a href="https://hexagonkt.com/">Hexagon</a>, saving to <a href="https://www.mongodb.com/">mongodb</a> database.
+  sourcecode_url: https://github.com/hexagonkt/todo_backend
+  live_url: https://todo-backend-hexagonkt.herokuapp.com/tasks
+  tags:
+    - kotlin
+    - hexagon
+    - mongodb
